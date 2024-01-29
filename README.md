@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bobomyint-miyazaki
+- 👋 Hi, I’m Bo Bo Myint, please call me Bo Bo.
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, Deep Learning.
 - 🌱 I’m currently learning Computer Vision Application.
 - 💞️ I’m looking to collaborate on Machine Learning Community.
